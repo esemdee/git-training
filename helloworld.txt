@@ -2,3 +2,5 @@ Hello world
 
 
 Hello. I'm adding some text to the bottom of this file. Is your commit going to cause a conflict??? We'll have to wait and see.
+
+No, we don’t want to wait and see.

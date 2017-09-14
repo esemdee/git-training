@@ -6,3 +6,6 @@ Hello. I'm adding some text to the bottom of this file. Is your commit going to 
 No, we don’t want to wait and see.
 
 We should go hoooome!!!!
+
+hi there!
+
